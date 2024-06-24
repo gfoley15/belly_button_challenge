@@ -4,7 +4,7 @@ This repository contains an interactive dashboard built to explore the Belly But
 
 ## Features
 - **Horizontal Bar Chart**: Displays the top 10 OTUs found in an individual. The bar chart updates based on the selected sample.
-- **Bubble Chart**: Displays each sample with the following properties:
+- **Bubble Chart**: Displays each sample based on number of bacteria and OTU.
 - **Demographic Info Panel**: Shows the sample's metadata (demographic information).
 - **Interactive Update**: All plots and demographic information update when a new sample is selected from the dropdown menu.
 
